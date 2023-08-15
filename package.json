@@ -1,0 +1,43 @@
+{
+  "name": "cube-sample-project",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "template": "express",
+  "templateVersion": "0.33.47",
+  "dependencies": {
+    "@cubejs-backend/athena-driver": "^0.33.47",
+    "@cubejs-backend/bigquery-driver": "^0.33.47",
+    "@cubejs-backend/clickhouse-driver": "^0.33.43",
+    "@cubejs-backend/crate-driver": "^0.33.47",
+    "@cubejs-backend/cubestore-driver": "^0.33.47",
+    "@cubejs-backend/databricks-jdbc-driver": "^0.33.47",
+    "@cubejs-backend/dremio-driver": "^0.33.47",
+    "@cubejs-backend/druid-driver": "^0.33.47",
+    "@cubejs-backend/duckdb-driver": "^0.33.47",
+    "@cubejs-backend/elasticsearch-driver": "^0.33.43",
+    "@cubejs-backend/firebolt-driver": "^0.33.47",
+    "@cubejs-backend/hive-driver": "^0.33.43",
+    "@cubejs-backend/jdbc-driver": "^0.33.43",
+    "@cubejs-backend/ksql-driver": "^0.33.47",
+    "@cubejs-backend/materialize-driver": "^0.33.47",
+    "@cubejs-backend/mongobi-driver": "^0.33.43",
+    "@cubejs-backend/mssql-driver": "^0.33.43",
+    "@cubejs-backend/mysql-aurora-serverless-driver": "^0.33.43",
+    "@cubejs-backend/mysql-driver": "^0.33.47",
+    "@cubejs-backend/oracle-driver": "^0.33.43",
+    "@cubejs-backend/postgres-driver": "^0.33.47",
+    "@cubejs-backend/prestodb-driver": "^0.33.43",
+    "@cubejs-backend/questdb-driver": "^0.33.47",
+    "@cubejs-backend/redshift-driver": "^0.33.47",
+    "@cubejs-backend/schema-compiler": "^0.33.47",
+    "@cubejs-backend/server": "^0.33.47",
+    "@cubejs-backend/server-core": "^0.33.47",
+    "@cubejs-backend/shared": "^0.33.43",
+    "@cubejs-backend/snowflake-driver": "^0.33.43",
+    "@cubejs-backend/sqlite-driver": "^0.33.43",
+    "@cubejs-backend/trino-driver": "^0.33.47"
+  }
+}
