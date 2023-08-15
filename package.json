@@ -38,6 +38,10 @@
     "@cubejs-backend/shared": "^0.33.43",
     "@cubejs-backend/snowflake-driver": "^0.33.43",
     "@cubejs-backend/sqlite-driver": "^0.33.43",
-    "@cubejs-backend/trino-driver": "^0.33.47"
+    "@cubejs-backend/trino-driver": "^0.33.47",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
